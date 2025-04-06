@@ -13,5 +13,5 @@ My data science and analytics projects
 reach out to me at satamptt3112@gmail.com
 
 ## Image 
-![Coffee](https://upload.wikimedia.org/wikipedia/commons/c/c8/Cappuccino_at_Sightglass_Coffee.jpg)
+![Coffee](https://t4.ftcdn.net/jpg/01/05/90/77/360_F_105907729_4RzHYsHJ2UFt5koUI19fc6VzyFPEjeXe.jpg)
 
